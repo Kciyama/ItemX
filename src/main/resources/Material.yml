@@ -1,0 +1,62 @@
+Wood:
+  - Wooden_Sword
+  - Wooden_Axe
+  - Wooden_Pickaxe
+  - Wooden_Shovel
+  - Wooden_Hoe
+
+Leather:
+  - Leather_Helmet
+  - Leather_Chestplate
+  - Leather_Leggings
+  - Leather_Boots
+
+Iron:
+  - Iron_Helmet
+  - Iron_Chestplate
+  - Iron_Leggings
+  - Iron_Boots
+  - Iron_Sword
+  - Iron_Axe
+  - Iron_Pickaxe
+  - Iron_Shovel
+  - Iron_Hoe
+
+Chainmail:
+  - Chainmail_Helmet
+  - Chainmail_Chestplate
+  - Chainmail_Leggings
+  - Chainmail_Boots
+
+Gold:
+  - Golden_Helmet
+  - Golden_Chestplate
+  - Golden_Leggings
+  - Golden_Boots
+  - Golden_Sword
+  - Golden_Axe
+  - Golden_Pickaxe
+  - Golden_Shovel
+  - Golden_Hoe
+
+Diamond:
+  - Diamond_Helmet
+  - Diamond_Chestplate
+  - Diamond_Leggings
+  - Diamond_Boots
+  - Diamond_Sword
+  - Diamond_Axe
+  - Diamond_Pickaxe
+  - Diamond_Shovel
+  - Diamond_Hoe
+
+Netherite:
+  - Netherite_Helmet
+  - Netherite_Chestplate
+  - Netherite_Leggings
+  - Netherite_Boots
+  - Netherite_Sword
+  - Netherite_Axe
+  - Netherite_Pickaxe
+  - Netherite_Shovel
+  - Netherite_Hoe

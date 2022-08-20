@@ -1,0 +1,15 @@
+name: ItemX
+version: '${version}'
+main: org.btc.itemx.ItemX
+api-version: 1.14
+authors: [ Kciyamat ]
+commands:
+  itemx:
+    description: Main Command of ItemX
+    aliases: itx
+depend:
+  - ProtocolLib
+  - ServerUtils
+softdepend:
+  - MythicMobs
+  - Residence
